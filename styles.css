@@ -11,7 +11,7 @@ body {
   }  
 
   #logo {
-    width: max(400px, 18vw);
+ /* width: max(400px, 18vw); */
     aspect-ratio: 1 / 1;
     background-color: rgb(0, 255, 0);
     }  
